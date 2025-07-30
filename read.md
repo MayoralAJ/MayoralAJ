@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.guim.co.uk/img/media/f77d607c8607ed032cf3100a69ddaf48eb63643d/0_20_1024_614/master/1024.jpg?width=1900&dpr=1&s=none&crop=none]"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
