@@ -14,6 +14,14 @@
 
 ###
 
+<div align="center">
+  <a href="https://open.spotify.com/user/ky">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ky&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
